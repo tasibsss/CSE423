@@ -1,5 +1,4 @@
 🟢 1️⃣ OpenGL 2D Animation
-📝 Description
 
 A simple 2D animation and drawing tool showcasing point plotting, basic shape rendering, and user interaction.
 
@@ -13,8 +12,10 @@ Create new points using mouse clicks
 
 Smooth animation through the idle function
 
+
+
+
 🔴 2️⃣ OpenGL Midpoint Circle
-📝 Description
 
 Visual demonstration of the Midpoint Circle Drawing Algorithm with motion and user-controlled speed.
 
