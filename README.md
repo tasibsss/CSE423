@@ -1,4 +1,4 @@
-🟢 1️⃣ OpenGL 2D Animation
+🟢 1️⃣ Interactive OpenGL Visualizer
 
 A simple 2D animation and drawing tool showcasing point plotting, basic shape rendering, and user interaction.
 
