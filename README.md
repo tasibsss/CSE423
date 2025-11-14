@@ -10,7 +10,7 @@ Move and resize shapes using keyboard
 
 Create new points using mouse clicks
 
-Smooth animation through the idle function
+Smooth animation through the idle function 
 
 
 
