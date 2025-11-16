@@ -5,7 +5,7 @@ A simple 2D animation and drawing tool showcasing point plotting, basic shape re
 ⚙️ Features 
 
 Draws points, triangles, and quads
-
+   
 Move and resize shapes using keyboard
 
 Create new points using mouse clicks
